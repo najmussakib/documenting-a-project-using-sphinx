@@ -1,0 +1,4 @@
+# ignore virtual env file: sphinxenv
+sphinxenv/
+docs/build/
+docs/source/_templates/
