@@ -19,6 +19,3 @@ Begin Here :ref:`Learn More<setting>`
 
    beforeyoubegin
 
-
-
-
