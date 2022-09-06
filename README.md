@@ -1,2 +1,2 @@
-# sphinx-documentation
+# Sphinx 
 - Documenting a project using Sphinx
